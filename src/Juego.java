@@ -4,8 +4,11 @@ import javax.swing.JTextArea;
 public class Juego {
     private final Personaje personaje1;
     private final Personaje personaje2;
+    private final Historial historial;
 
-    public Juego() {
+    public Juego(Historial historial) {
+        this.historial = historial;
+
         // Objetos de combate
         Arma espada = new Arma("Espada", 15, "Fisico");
         Arma baston = new Arma("Baston", 12, "Magico");
@@ -41,6 +44,9 @@ public class Juego {
             }
         }
         declararGanador(textArea1);
+
+        // Registrar el historial
+        historial.registrar(textArea1.getText());
     }
 
     private void turnoDeAtaque(Personaje atacante, Personaje defensor, JTextArea textArea1) {

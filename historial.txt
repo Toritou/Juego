@@ -1,0 +1,38 @@
+Guerrero ha pasado por un santuario, su defensa ha aumentado.
+Guerrero ataca a Mago y le causa daño.
+Mago tiene 48 puntos de vida restantes.
+Mago ataca a Guerrero y le causa daño.
+Guerrero tiene 73 puntos de vida restantes.
+Guerrero ataca a Mago y le causa daño.
+Mago tiene 16 puntos de vida restantes.
+Mago ataca a Guerrero y le causa daño.
+Guerrero tiene 46 puntos de vida restantes.
+Guerrero ataca a Mago y le causa daño.
+Mago tiene 4 puntos de vida restantes.
+Mago ataca a Guerrero y le causa daño.
+Guerrero tiene 19 puntos de vida restantes.
+Guerrero ataca a Mago y le causa daño.
+Mago tiene -28 puntos de vida restantes.
+Guerrero es el ganador!
+-----------------------------------------------------------Guerrero ha pasado por un santuario, su defensa ha aumentado.
+Mago ha pasado por un santuario, su defensa ha aumentado.
+Guerrero ataca a Mago y le causa daño.
+Mago tiene 58 puntos de vida restantes.
+Mago ataca a Guerrero y le causa daño.
+Guerrero tiene 73 puntos de vida restantes.
+Guerrero ataca a Mago y le causa daño.
+Mago tiene 36 puntos de vida restantes.
+Mago ataca a Guerrero y le causa daño.
+Guerrero tiene 46 puntos de vida restantes.
+Guerrero ataca a Mago y le causa daño.
+Mago tiene 14 puntos de vida restantes.
+Mago ataca a Guerrero y le causa daño.
+Guerrero tiene 19 puntos de vida restantes.
+Guerrero ataca a Mago y le causa daño.
+Mago tiene 12 puntos de vida restantes.
+Mago ataca a Guerrero y le causa daño.
+Guerrero tiene 12 puntos de vida restantes.
+Guerrero ataca a Mago y le causa daño.
+Mago tiene -10 puntos de vida restantes.
+Guerrero es el ganador!
+-----------------------------------------------------------
